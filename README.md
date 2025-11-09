@@ -25,8 +25,11 @@ It supports full **CRUD operations** such as Add, List, Search, Update, and Dele
 2. Download this repository
 3. Open terminal (CMD)
 4. Navigate to project folder
-cd student-management-system
    
+cd student-management-system
+
+5. Run the file:
+
 python student_app.py
 
 
