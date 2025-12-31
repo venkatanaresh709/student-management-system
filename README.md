@@ -37,28 +37,3 @@ python student_app.py
 
 ---
 
-## ✅ Fix #2: Files Included + About (already ok)
-Idi end-lo undi—**unchipoyi saripothundi**. Formatting bagundi.
-
----
-
-## ✅ MUST DO: Upload your code file(s)
-Ippudu repo lo **`student_app.py` kanapadale**. Upload cheyali:
-
-1) Repo page → **Add file** → **Upload files**  
-2) Select:
-   - `student_app.py` ✅  
-   - (Optional) `students.db` sample DB  
-3) **Commit changes**
-
-> Tip: If file local ga ekkado unte, `student_project` folder nundi upload chey.
-
----
-
-## ✅ Optional (nice touch)
-- **Screenshot**: Program running (List Students) ni screenshot pettukoni upload chey (e.g., `screenshot.png`)  
-- README lo **Screenshots** section add chey:
-
-```md
-## 📸 Screenshot
-![CLI Demo](screenshot.png)
